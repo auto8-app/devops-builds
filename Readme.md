@@ -3,11 +3,9 @@
 </p>
 
 ### About Auto8 DevOps
-Auto8 DevOps is a robust solution dedicated to streamlining and
-automating DevOps workflows. Our mission is to simplify complex
-processes and enhance productivity by automating tedious tasks
-associated with server management, software installation,
-backups, and database operations.
+Our mission is to simplify complex processes and enhance productivity
+by automating tedious tasks associated with server management,
+software installation, backups, and database operations.
 
 <p align="center">
 <img src="app.png">
