@@ -38,7 +38,7 @@ Auto8 DevOps release process.
 4. Perform the following set of command:
 
    ```
-   npm run clean
+   npm run clean:fresh
    npm run build:mac
 
    # ONE TIME command
